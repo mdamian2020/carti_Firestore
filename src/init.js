@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 // Your web app's Firebase configuration
 
 const firebaseConfig = {
-    apiKey: "AIzaSyD25g0kGxoXqLl7yuk08r2_5c9r1izOd3Q",
+    apiKey: "AIzaSyD25g0kGxoXqLl7yuk08r2_5zOd3Q",
   authDomain: "carti-faa9e.firebaseapp.com",
   projectId: "carti-faa9e",
   storageBucket: "carti-faa9e.appspot.com",
